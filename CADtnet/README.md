@@ -1,6 +1,10 @@
 # CADtnet
+> Computer-Aided Diagnostics & Triaging Network
 
-Computer-Aided Diagnostics & Triagning Network
+Scans real-world Breast Ultrasound Scans to get a region-of-interest and classify scans among BI-RADS scores. 
+BI-RADS scores measure the malignancy.
+
+
 
 | 1 | 2 | 3 | 
 |---|---|---|
