@@ -3,6 +3,7 @@
 Inspired from SDfusion and Changeit3D, we develop a method to generate and edit point clouds via multimodal inputs i.e. sketch, image, text, point cloud. 
 
 ![alt text](sculpt3D.png)
+- Modified encoder to give finer and granular reconstruction of the point cloud.
 
 ![Training of the Listener](train-listener.png)
 

@@ -2,8 +2,9 @@
 
 A complete structural neuroimaging pipeline to enable Neurosurgical Planning, with modules like fODF reconstruction, Fiber Tracking, and Tract Segmentation. This extension, SlicerTracto is built on top of open-source and widely used and accepter 3D Slicer. 
 
+![SlicerTracto: QuickBundles](slicer-tracto.gif)
 ## Overview
-
+![SlicerTracto overview](brain-imaging-iit-mandi.drawio.png)
 
 ### Features
 **Modular Design**: Includes four specialized modules (fODF reconstruct, track, segment, metrics).
@@ -11,7 +12,6 @@ A complete structural neuroimaging pipeline to enable Neurosurgical Planning, wi
 **Algorithm Wrapping**: Allows seamless integration and interchangeability of multiple algorithms.
 **Advanced Visualization**: Supports interactive visualization of fiber tracts overlaid on brain images.
 
-### 
 
 ### Modules Overview
 1. **Fodf** (Fiber Orientation Distribution Function)
@@ -63,3 +63,7 @@ A complete structural neuroimaging pipeline to enable Neurosurgical Planning, wi
 **Pre-requisites**
 1. 3D Slicer (Latest version) # 5.0.6
 2. Required dependencies installed inside slicer given in requirement.txt for selected algorithms.
+
+
+![QuickBundles](quickBundles.png)
+![TractRLformer](track2learn.png)
