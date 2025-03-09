@@ -1,4 +1,8 @@
 # ClickVision
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 Event Prediction using Clickstream data using Partially-observable markov chains and Transition Matrices. 
 
@@ -17,4 +21,4 @@ We created a sequential decision predicting and temporal agnostic algorithm whic
 
 We studied the concepts of Reinforcement Learning and Probabilistic Decision Making to come with this approach. This model takes in clickstream data of the selected user (sign-up/ existing) and further predicts the future steps one by one while fetching values from the Transition Matrices created while training the model on the data.
 
-Technologies uesd are: **Python, Pyspark**
+Technologies uesd are: Python, Pyspark, Parquet, 
